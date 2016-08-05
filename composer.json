@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MirstrKot\\mailgun-yii2-embed\\": ""
+            "mirstrkot\\mailgun_yii2_embed\\": ""
         }
     }
 }
